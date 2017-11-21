@@ -1,0 +1,13 @@
+{
+  "presets": [
+    [
+      "env",
+      {
+        "targets": { "node": 4 },
+        "debug": false,
+        "useBuiltIns": true
+      }
+    ]
+  ],
+  "sourceMaps": "both"
+}
